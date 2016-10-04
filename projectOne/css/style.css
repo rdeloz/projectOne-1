@@ -1,5 +1,18 @@
 
 
 h1 {
-    font-color: #a10022;
+    font-family: 'Lalezar', cursive;
+    color: black;
+    height: 8px;
  }
+
+h2 {
+    font-family: 'Lalezar', cursive;
+    font-size: 14px;
+    color: black;
+    height: 0px;
+}
+
+img {
+    max-width: 88px;
+}
